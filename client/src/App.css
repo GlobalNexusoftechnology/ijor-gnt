@@ -1,0 +1,8 @@
+.nav-link{
+  padding: 0.25rem;
+}
+
+.nav-link.active{
+  background: #EF7B1D;
+  border-radius: 3px;
+}

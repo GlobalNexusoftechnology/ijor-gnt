@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "label": "The manuscripts should normally not exceed 2500 words (A 4 Size) pages, with a margin of 1 inch on all sides including figures and tables, typed in 1.5 space in 1l-point - in Times New Roman font."
+  },
+  {
+    "id": 2,
+    "label": "A soft copy of the article should be submitted through e-mail to executiveeditor.ijr@rizvicollege.edu.in."
+  },
+  {
+    "id": 3,
+    "label": "The author should declare that the article is the author’s original work. The article has not been previously published elsewhere and is not currently under consideration for another publication. If excerpts from copyrighted works are included, the author should obtain written permission from the copyright owners and show credit to the sources in the article. The author should also warrant that the article contains no libelous or unlawful statements and does not infringe on the rights of others. There should be no plagiarized material in the research paper submitted to us. If we find that the author/s did not abide to the above guidelines, his work will be disqualified and no further work of the author/s will be ever considered in our journal. We expect the author to attach the plagiarism report along with the paper."
+  },
+  {
+    "id": 4,
+    "label": "The cover page of the article should contain: (i) the Title of the article (in bold), the Title should be short and precise (ii) the Name(s) of authors (iii) Professional affiliation (iv) the Address of correspondence (v) Contact No and Email. Kindly note that the author’s name should not be mentioned on any other page."
+  },
+  {
+    "id": 5,
+    "label": "Full paper should generally consist (i) the Title of the article (Times New Romans 14, in bold) (ii) an Abstract of the paper in about 250 words (Times Roman 11-point, Italics), the abstract should be in a single paragraph and indicate methods used, significant findings and conclusions in brief (iii) Keywords: 3 to 5 words, arranged alphabetically and (iv) Main text."
+  },
+  {
+    "id": 6,
+    "label": "The main text should have (i) an Introduction (highlighting the review of current literature, aims, and the objectives of the study) (ii) Research Methodology (or Materials &amp; Methods) (iii) Results &amp; Discussions (iv) Research limitations/ implications (if any) (iv) Conclusions and Suggestions (v) Acknowledgements (optional)."
+  },
+  {
+    "id": 7,
+    "label": "References in the text should be given by surname of the author, no initials: If a single author, write the author&#39;s surname and year in parenthesis e.g. Mathur (1987). With dual authorship give both the names e.g. Leeds and Solanki (1970), for three or more use “et al” e.g. Murthy et al. (1967). If more than one reference in a single year, distinguish between them by the use of letters “a, b.” e.g. Olsen (l980a). If multiple references are to be quoted, separate them by semi-colons, e.g. (John (1987); Singh (1990); Rosen (2009)). The Authors are supposed to follow the Harvard Style of Referencing."
+  },
+  {
+    "id": 8,
+    "label": "All Figures (charts, diagrams, and line drawings) and Plates (photographic images) should be submitted in electronic form. They should be of clear quality, in black and white, and numbered consecutively. Tables and diagrams should be numbered consecutively and included in the text. Sources must be mentioned below the table. The titles must be above the tables/figures/charts."
+  },
+  {
+    "id": 9,
+    "label": "The location of endnotes (instead of footnotes) within the text should be indicated by superscript numbers."
+  },
+  {
+    "id": 10,
+    "label": "Mathematical expressions should be presented in a way that can be easily edited and printable."
+  },
+  {
+    "id": 11,
+    "label": "Please check your manuscript for clarity grammar, spelling, punctuation, and consistency of references to minimize editorial changes."
+  },
+  {
+    "id": 12,
+    "label": "The editorial team has the right to modify or edit the work in order to match the standard and style requirements of the journal."
+  },
+  {
+    "id": 13,
+    "label": "References should be in the end arranged alphabetically. Only references cited in the text should be presented in the list of references. For titles in a language other than English, provide an English translation in parentheses."
+  },
+  {
+    "id": 14,
+    "label": "The following format should be used for referring books, articles in journals, electronic documents etc. Author surname, Initial (Year), Title of the article, Journal’s Name (in Italics), Vol. No (Issue No), Page Number."
+  }
+]

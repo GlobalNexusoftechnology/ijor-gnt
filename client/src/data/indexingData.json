@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8,
+    "label": "Certificate of Indexing (SJIF 2025)",
+    "link": "assets/docs/indexing/SJIFCertificate2025.jpeg"
+  },
+  {
+    "id": 7,
+    "label": "Certificate of Indexing (SJIF 2024)",
+    "link": "assets/docs/indexing/SJIFCertificate2024.jpeg"
+  },
+  {
+    "id": 1,
+    "label": "Certificate of Indexing (SJIF 2023)",
+    "link": "assets/docs/indexing/SJIFCertificate2023.jpeg"
+  },
+  {
+    "id": 2,
+    "label": "Certificate of Indexing (SJIF 2022)",
+    "link": "assets/docs/indexing/SJIFCertificate2022.jpeg"
+  },
+  {
+    "id": 3,
+    "label": "Certificate of Indexing (SJIF 2021)",
+    "link": "assets/docs/indexing/SJIFCertificate2021.jpeg"
+  },
+  {
+    "id": 4,
+    "label": "Certificate of Indexing (SJIF 2019)",
+    "link": "assets/docs/indexing/SJIFCertificate2019.pdf"
+  },
+  {
+    "id": 5,
+    "label": "Certificate of Indexing (SJIF 2018)",
+    "link": "assets/docs/indexing/SJIFCertificate2018.pdf"
+  },
+  {
+    "id": 6,
+    "label": "Certificate of Indexing (SJIF 2017)",
+    "link": "assets/docs/indexing/SJIFCertificate2017.pdf"
+  }
+]

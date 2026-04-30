@@ -1,0 +1,38 @@
+[
+  {
+    "label": "Home",
+    "link": "/"
+  },
+  {
+    "label": "Editorial Board",
+    "link": "/editorial-board"
+  },
+  {
+    "label": "Guidelines",
+    "link": "/guidelines"
+  },
+  {
+    "label": "Subscription",
+    "link": "/subscription"
+  },
+  {
+    "label": "Online Submission",
+    "link": "/online-submission"
+  },
+  {
+    "label": "General Information",
+    "link": "/general-information"
+  },
+  {
+    "label": "Journal Issues",
+    "link": "/journal-issues"
+  },
+  {
+    "label": "Indexing",
+    "link": "/indexing"
+  },
+  {
+    "label": "Contact Us",
+    "link": "/contact-us"
+  }
+]

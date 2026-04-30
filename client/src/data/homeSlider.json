@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Financial",
+        "imgSrc": "https://res.cloudinary.com/drn9uxegj/image/upload/v1697545515/stacks-money-coin-financial-background-concept-with-vintage-filter_35652-2137_pc1qtu.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Biotechnology",
+        "imgSrc": "https://res.cloudinary.com/drn9uxegj/image/upload/v1697545496/experiment-biotechnology-with-chemistry-science_23-2150365013_ywjnq9.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Agriculture",
+        "imgSrc": "https://res.cloudinary.com/drn9uxegj/image/upload/v1697545480/green-tea-bud-leaves-green-tea-plantations-morning_335224-955_tphyah.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Manufacturing",
+        "imgSrc": "https://res.cloudinary.com/drn9uxegj/image/upload/v1697545475/factory-workshop-interior-machines-glass-production-background_645730-396_fbnt85.jpg"
+    }
+]
