@@ -29,7 +29,7 @@ const Downloads = () => {
           {downloadMenuItems.map((menu) => (
             <ListItem disablePadding key={menu.label}>
               <Typography variant={"body2"}>
-                <a target="_blank" href={menu.link}>{menu.label}</a>
+                <a target="_blank" href={menu.link} rel="noreferrer">{menu.label}</a>
               </Typography>
             </ListItem>
           ))}
