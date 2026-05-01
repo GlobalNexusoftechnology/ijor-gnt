@@ -8,8 +8,10 @@ const CallForPapers = () => {
         Call For Papers
       </Typography>
 
-      <Typography mb={4} fontWeight={600}>
-        Call for papers for International Journal of Research, Volume 15 Issue 1 (July- December, 2025), ISSN 2231-6124, Peer Reviewed Biannual Indexed Journal with Impact Factor 8.88 (SJIF 2025).
+      {/* <Typography mb={4} fontWeight={600}>
+        Call for papers for International Journal of Research, Volume 15 Issue 2
+        (Jan - June 2026) ISSN 2231-6124 Peer Reviewed Biannual Indexed Journal
+        with Impact Factor 8.88 (SJIF 2025)
         <br />
         The last date for sending the Research Paper is 25th November, 2025.
         <br />
@@ -21,6 +23,43 @@ const CallForPapers = () => {
         For more details, one can check the journal website{" "}
         <a href="www.internationaljournalofresearch.co.in">
           www.internationaljournalofresearch.co.in
+        </a>
+      </Typography> */}
+
+      <Typography mb={4} fontWeight={600} lineHeight={1.6}>
+        Call for papers for International Journal of Research, Volume 15 Issue 2
+        (Jan - June 2026) ISSN 2231-6124 Peer Reviewed Biannual Indexed Journal
+        with Impact Factor 8.88 (SJIF 2025)
+        <br />
+        <br />
+        The Journal accepts original research papers in the following areas:
+        <br />
+        • Commerce, Management & Accountancy <br />
+        • Economics & Business Economics <br />
+        • Science & Technology (Pure or Applied Sciences) <br />
+        • Social Sciences <br />
+        • Hospitality Studies <br />
+        • Literature (English, Hindi & Urdu)
+        <br />
+        <br />
+        Empirical research papers are preferred. Any topic related to the above
+        major subjects is welcome in the journal.
+        <br />
+        <br />
+         Last date for sending original research paper: <b>25th May 2026</b>
+        <br />
+         Email id:{" "}
+        <a href="mailto:executiveeditor.ijr@rizvicollege.edu.in">
+          executiveeditor.ijr@rizvicollege.edu.in
+        </a>
+        <br />
+         For more details, visit:{" "}
+        <a
+          href="https://internationaljournalofresearch.co.in/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          https://internationaljournalofresearch.co.in/
         </a>
       </Typography>
 
