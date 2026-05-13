@@ -1,6 +1,11 @@
 [
   {
     "id": 8,
+    "label": "Certificate of Indexing (SJIF 2026)",
+    "link": "assets/docs/indexing/SJIFCertificate2026.jpeg"
+  },
+  {
+    "id": 8,
     "label": "Certificate of Indexing (SJIF 2025)",
     "link": "assets/docs/indexing/SJIFCertificate2025.jpeg"
   },

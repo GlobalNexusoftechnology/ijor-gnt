@@ -2,28 +2,28 @@
   {
     "id": 1,
     "name": "Dr. Ajay Bhamre",
-    "designation": "Pro-VC",
-    "university": "Univ. of Mumbai",
+    "designation": "Pro Vice-Chancellor",
+    "university": "University of Mumbai",
     "location": "Mumbai, India"
   },
   {
     "id": 2,
     "name": "Dr. Chandrahauns R. Chavan",
     "designation": "Director",
-    "university": "JBIMS, Churhgate, University of Mumbai",
+    "university": "JBIMS, Churchgate, University of Mumbai",
     "location": "Mumbai, India"
   },
   {
     "id": 3,
     "name": "Prof. Furqan Qamar",
-    "designation": "Former General Secretary General",
-    "university": "Association of Indian University",
+    "designation": "Former General Secretary",
+    "university": "Association of Indian Universities",
     "location": "New Delhi, India"
   },
   {
     "id": 4,
     "name": "Dr. Gajendra K. Vishwakarma",
-    "designation": "Associate Professor",
+    "designation": "Professor, Dept. of Statistics",
     "university": "Indian School of Mines",
     "location": "Dhanbad, Jharkhand, India"
   },
@@ -36,219 +36,219 @@
   },
   {
     "id": 6,
-    "name": "Dr. G. K. Kalkoti",
-    "designation": "Former Principal",
-    "university": "MVM College, (Univ .of Mumbai)",
-    "location": "Andheri(W), Mumbai, India"
+    "name": "Dr. Ashfaque Ahmed",
+    "designation": "Associate Professor",
+    "university": "Department of Accounting, College of Administrative and Financial Sciences, Saudi Electronic University",
+    "location": "Riyadh, KSA"
   },
   {
     "id": 7,
-    "name": "Dr G. V. Bhavani Prasad",
-    "designation": "Professor",
+    "name": "Dr. G. V. Bhavani Prasad",
+    "designation": "Former Professor, Dept. of Commerce",
     "university": "Kakatiya University",
     "location": "Warangal, Andhra Pradesh, India"
   },
   {
     "id": 8,
-    "name": "Dr. Besavaraj Benni",
-    "designation": "Professor, Dept. of Economics",
-    "university": "Bangalore University.",
+    "name": "Dr. Besavraj Benni",
+    "designation": "Professor, Department of Economics",
+    "university": "Bangalore University",
     "location": "Bengaluru, India"
   },
   {
     "id": 9,
-    "name": "Dr. M  S Kurhade",
+    "name": "Dr. M. S. Kurhade",
     "designation": "Director",
-    "university": "DTSS College of Commerce",
+    "university": "DTSS College",
     "location": "Malad (E), Mumbai, India"
   },
   {
     "id": 10,
-    "name": "Dr. G.Y. Shitole",
-    "designation": "Principal",
-    "university": "Balaji College of Arts, Commerce & Science",
-    "location": "Pune, Maharashtra, India"
+    "name": "Dr. Asha Jindal",
+    "designation": "HOD & Professor",
+    "university": "Department of Statistics, HSNC University",
+    "location": "Mumbai, India"
   },
   {
-    "id": 31,
+    "id": 11,
     "name": "Dr. Kiran Mangaonkar",
     "designation": "Director",
-    "university": "Guru Nanak Khalsa College, (Univ. of Mumbai)",
-    "location": "Mumbai, Maharashtra, India"
+    "university": "Guru Nanak Khalsa College, University of Mumbai",
+    "location": "Matunga, Mumbai, India"
   },
   {
-    "id": 32,
+    "id": 12,
     "name": "Dr. Mohd. Nayyer Rahman",
-    "designation": "Director",
+    "designation": "Faculty Member",
     "university": "Department of Commerce, Aligarh Muslim University",
     "location": "Aligarh, India"
   },
   {
-    "id": 33,
+    "id": 13,
     "name": "Dr. M.B. Bhide",
     "designation": "Former Director",
-    "university": "SIMREE & State Ins for Administrative Careers, Sydnehum College",
-    "location": "Churchgate, Mumbai"
+    "university": "SIMREE & State Institute for Administrative Careers, Sydenham College",
+    "location": "Churchgate, Mumbai, India"
   },
   {
-    "id": 34,
+    "id": 14,
     "name": "Prof. (Dr.) Pranjal Bezborah",
-    "designation": "Dean",
-    "university": "School of Commerce & Management Science, Dibrugarh University",
-    "location": "Aligarh, India"
+    "designation": "Dean, School of Commerce & Management Science",
+    "university": "Dibrugarh University",
+    "location": "Assam, India"
   },
   {
-    "id": 35,
-    "name": "Dr. Asha Jindal",
-    "designation": "Professor & HOD",
-    "university": "Dept. of Statistics, K.C. College, HSNC University",
-    "location": "Mumbai, India"
-  },
-  {
-    "id": 36,
-    "name": "Prof. (Dr.) Prabir Burman",
-    "designation": "Professor",
-    "university": "University of California",
-    "location": "Davis"
-  },
-  {
-    "id": 11,
-    "name": "Dr. Mohd. Saeem Khan",
-    "designation": null,
-    "university": "Dept. of Commerce, Aligarh Muslim University",
-    "location": "Rampur, UP, India"
-  },
-  {
-    "id": 30,
+    "id": 15,
     "name": "Dr. Kuldeep Kumar",
-    "designation": "Professor",
+    "designation": "Professor, Centre of Data Analytics",
     "university": "Bond University",
     "location": "Australia"
   },
   {
-    "id": 13,
+    "id": 16,
+    "name": "Dt. B. T. Lawani",
+    "designation": "Director of Research Development",
+    "university": "JSF Research Centre, Pune University",
+    "location": "Pune, India"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Mohd. Saeem Khan",
+    "designation": "Faculty Member",
+    "university": "Dept. of Commerce, Aligarh Muslim University",
+    "location": "Aligarh, India"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Michael Rajamathi",
+    "designation": "Former Professor",
+    "university": "Department of Chemistry, St. Joseph’s College",
+    "location": "Bangalore, India"
+  },
+  {
+    "id": 19,
     "name": "Dr. R. Prabakaran",
-    "designation": "Scientific Officer (D)",
-    "university": "TIFR",
+    "designation": "Head, SIRC",
+    "university": "SIRC, TIFR",
     "location": "Mumbai, India"
   },
   {
-    "id": 14,
+    "id": 20,
     "name": "Dr. (Mrs.) Masarrat Saheb Ali",
-    "designation": null,
-    "university": "Govt. of Maharashtra`s S. T. College",
+    "designation": "Professor",
+    "university": "Govt. of Maharashtra's S. T. College",
     "location": "Mumbai, India"
   },
   {
-    "id": 15,
+    "id": 21,
     "name": "Dr. Rafat Hussain Rizvi",
     "designation": "Senior Scientist",
     "university": "Washington",
     "location": "U.S.A."
   },
   {
-    "id": 16,
+    "id": 22,
     "name": "Dr. Sachin S. Vernekar",
     "designation": "Dean & Director",
-    "university": "BVIMR University, IMED",
+    "university": "DY Pune",
     "location": "Pune, India"
   },
   {
-    "id": 17,
+    "id": 23,
     "name": "Dr. Sabir Ali Siddiqui",
-    "designation": null,
-    "university": "Dhofar University",
+    "designation": "Faculty Member",
+    "university": "Department of Statistics, Dhofar University",
     "location": "Sultanate of Oman"
   },
   {
-    "id": 18,
+    "id": 24,
     "name": "Dr. Sayed Hasan Tahir",
     "designation": "Scientist",
     "university": null,
     "location": "California, U.S.A."
   },
   {
-    "id": 19,
+    "id": 25,
     "name": "Dr. Shakeel Ahmed",
     "designation": "Former Director",
     "university": "PIMSE",
     "location": "Pune, India"
   },
   {
-    "id": 20,
+    "id": 26,
     "name": "Dr. Kumar Pankaj",
     "designation": "Director of Arts Faculty",
     "university": "BHU",
     "location": "UP, India"
   },
   {
-    "id": 21,
+    "id": 27,
     "name": "Dr. Ziaul Islam",
-    "designation": null,
+    "designation": "Faculty Member",
     "university": "Dept. of Commerce, Aligarh Muslim University",
     "location": "Aligarh, India"
   },
   {
-    "id": 22,
+    "id": 28,
     "name": "Dr. Syed Hasan Mahmud",
     "designation": "Former Professor-Director",
-    "university": "UGC-Academic Staff College",
-    "location": "Jamia Milia Islamia Univ., New Delhi, India"
+    "university": "UGC-Academic Staff College, Jamia Milia Islamia University",
+    "location": "New Delhi, India"
   },
   {
-    "id": 23,
-    "name": "Dr Syed Iqbal",
-    "designation": "Former Head of Department",
-    "university": "Burhani College",
+    "id": 29,
+    "name": "Dr. Santosh Gite",
+    "designation": "HOD & Professor",
+    "university": "Dept. of Statistics, University of Mumbai",
     "location": "Mumbai, India"
   },
   {
-    "id": 24,
+    "id": 30,
     "name": "Dr. Rakesh Kumar",
     "designation": "Scientist and Head",
-    "university": "NEERI",
+    "university": "Mumbai Zonal Center, NEERI",
     "location": "Mumbai, India"
   },
   {
-    "id": 25,
+    "id": 31,
     "name": "Dr. Sanjay Kaptan",
     "designation": "Former Professor and Head",
     "university": "University of Pune",
     "location": "Pune, India"
   },
   {
-    "id": 26,
+    "id": 32,
     "name": "Dr. Mohammad Khalil Ahmad",
     "designation": "Principal",
-    "university": "SEMT A E Kalsekar College (University Of Mumbai)",
-    "location": "Nalasopara (West), Palghar, India"
+    "university": "SEMT A E Kalsekar College, University of Mumbai",
+    "location": "Nalasopara (West), Palghar, Maharashtra, India"
   },
   {
-    "id": 27,
+    "id": 33,
     "name": "Dr. Rafia Shabnum Abedi",
     "designation": "Former HOD",
-    "university": "Dept of Urdu, University of Mumbai",
+    "university": "Dept. of Urdu, University of Mumbai",
     "location": "Mumbai, India"
   },
   {
-    "id": 28,
-    "name": "Dr. M. K. Singh",
-    "designation": "Director",
-    "university": "MBA, Vinoba Bhave University",
-    "location": "Hazaribag, Jharkhand, India"
+    "id": 34,
+    "name": "Dr. Shariq Nisar",
+    "designation": "Principal",
+    "university": "Rizvi Institute of Management Studies",
+    "location": "Mumbai, India"
   },
   {
-    "id": 29,
+    "id": 35,
     "name": "Dr. Sanket Vij",
     "designation": "Chairperson & Director",
     "university": "B.P.S. Women University",
     "location": "Sonipat, India"
   },
   {
-    "id": 12,
-    "name": "Dr. Michael Rajamathi",
-    "designation": "Department of Chemistry",
-    "university": "St. Joseph’s College",
-    "location": "Bangalore, India"
+    "id": 36,
+    "name": "Dr. Syed Iqbal",
+    "designation": "Former Head, Department of Sociology",
+    "university": "Burhani College",
+    "location": "Mumbai, India"
   }
 ]

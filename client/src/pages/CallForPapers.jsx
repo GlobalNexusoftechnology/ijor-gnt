@@ -29,7 +29,7 @@ const CallForPapers = () => {
       <Typography mb={4} fontWeight={600} lineHeight={1.6}>
         Call for papers for International Journal of Research, Volume 15 Issue 2
         (Jan - June 2026) ISSN 2231-6124 Peer Reviewed Biannual Indexed Journal
-        with Impact Factor 8.88 (SJIF 2025)
+        with Impact Factor 8.897 (SJIF 2026)
         <br />
         <br />
         The Journal accepts original research papers in the following areas:

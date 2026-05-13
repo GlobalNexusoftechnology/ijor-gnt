@@ -38,7 +38,7 @@ const rows = [
 const Subscription = () => {
   return (
     <Box mx={2} my={2}>
-      <Typography align="center" variant="h6" mb={2}>Subscription Information for 2023-24</Typography>
+      <Typography align="center" variant="h6" mb={2}>Subscription Information for 2026-27</Typography>
 
       <TableContainer className="border" sx={{ mt: 2, borderColor: "#e0e0e0" }}>
         <Table>
@@ -102,13 +102,13 @@ const Subscription = () => {
       <Typography mt={2} align="justify">
         All payments should be made immediately after receiving an acceptance letter.<br/>
         Supply of Journal will commence only on receipt of the full subscription amount.<br/>
-        INR 700 for an additional hard copy of the journal for individuals.<br/>
+        INR 1000 for an additional hard copy of the journal for individuals.<br/>
         For any Inquiry / Information, please contact:<br/>
         The Principal,<br/>
         Rizvi Education Society’s<br/>
         Rizvi College of Arts, Science &amp; Commerce,<br/>
         Off Carter Road, Bandra (West), Mumbai - 400 050, India<br/>
-        Phone: +91 90048 34583, +91-8451046220<br/>
+        Phone: +91-22-2648 0348, +91-22-2604 1696, +91-8451046220<br/>
         Fax: +91-22-2649 7448<br/>
         E-mail: executiveeditor.ijr@rizvicollege.edu.in<br/>
         Website: http://www.rizvicollege.edu.in
