@@ -175,13 +175,6 @@
     "location": "Pune, India"
   },
   {
-    "id": 26,
-    "name": "Dr. Kumar Pankaj",
-    "designation": "Director of Arts Faculty",
-    "university": "BHU",
-    "location": "UP, India"
-  },
-  {
     "id": 27,
     "name": "Dr. Ziaul Islam",
     "designation": "Faculty Member",
@@ -250,5 +243,13 @@
     "designation": "Former Head, Department of Sociology",
     "university": "Burhani College",
     "location": "Mumbai, India"
+  },
+  {
+    "id": 37,
+    "name": "Dr. Kuldeep Sharma",
+    "designation": "Faculty Member",
+    "university": "K.P.B. Hinduja College",
+    "location": "Mumbai, India",
+    "additional_role": "Secretary, Indian Commerce Association"
   }
 ]
